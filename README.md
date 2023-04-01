@@ -7,7 +7,6 @@
 )](mailto:gabriel.oliveira20500@gmail.com)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-santos18&theme=blue-green)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-santos18)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu mais utilizo
