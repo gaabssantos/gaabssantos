@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <h2> Hello, i am Gabriel! 🧑‍💻 </h2>
-</div>
+<h2> 👋 Welcome! </h2>
 
 <ul>
 
