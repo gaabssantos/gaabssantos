@@ -1,5 +1,6 @@
-<h2 style="text-align: center;"> Hello, i am Gabriel! 🧑‍💻 </h2>
-<hr>
+<div style="text-align: center;">
+  <h2> Hello, i am Gabriel! 🧑‍💻 </h2>
+</div>
 
 <ul>
 
