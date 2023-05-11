@@ -1,4 +1,4 @@
-<center> Hello, i am Gabriel! 🧑‍💻 </center>
+<h2 style="text-align: center;"> Hello, i am Gabriel! 🧑‍💻 </h2>
 <hr>
 
 <ul>
