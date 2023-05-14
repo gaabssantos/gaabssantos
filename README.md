@@ -1,4 +1,4 @@
-<a href="https://github.com/gabriel-santos18"><img style="display: flex; justify-content-items: center;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=14C3FF&background=FFFFFF00&center=true&width=700&lines=Welcome!+%F0%9F%91%8B" alt="Gabriel" /></a>
+<a href="https://github.com/gabriel-santos18"><img style="margin: 30px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=14C3FF&background=FFFFFF00&center=true&width=700&lines=Welcome!+%F0%9F%91%8B" alt="Gabriel" /></a>
 
 <hr>
 
