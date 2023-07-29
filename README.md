@@ -32,6 +32,7 @@
   <a href="#"> <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=BLUE"> </a>
   <a href="#"> <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </a>
   <a href="#"> <img align="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> </a>
+  <a href="#"> <img align="center" alt="mysql" src="https://img.shields.io/badge/Mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white"> </a>
 
 </div> <br>
 
