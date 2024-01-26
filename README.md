@@ -14,12 +14,10 @@
   
 </ul>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaabssantos._/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaabssantos/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-)](https://www.facebook.com/profile.php?id=100006164253612)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:gabriel.oliveira20500@gmail.com)
+<h2> Connect with me: </h2>
+
+[![Instagram](https://w7.pngwing.com/pngs/389/430/png-transparent-instagram-social-media-instagram-black-social-social-media-logo-icon.png)](https://www.instagram.com/gaabssantos._/)
+[![Linkedin](https://w7.pngwing.com/pngs/684/46/png-transparent-linkedin-computer-icons-lord-miscellaneous-angle-text-thumbnail.png)](https://www.linkedin.com/in/gaabssantos/)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-santos18&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-santos18)](https://github.com/anuraghazra/github-readme-stats)
