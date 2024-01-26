@@ -13,7 +13,7 @@
 
 <h2> Connect with me: </h2>
 
-<a href="https://www.instagram.com/gaabssantos._/">
+<a href="https://www.instagram.com/gaabssantos._/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaabssantos._/)
