@@ -18,6 +18,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaabssantos._/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaabssantos/)
 
+<hr>
+
 <a href="https://github.com/gaabssantos">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gaabssantos&theme=blue-green" />
 </a>
@@ -25,6 +27,8 @@
 <a href="https://github.com/gaabssantos">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabssantos" />
 </a>
+
+<hr>
 
 ## Tecnologias que eu mais utilizo
 
