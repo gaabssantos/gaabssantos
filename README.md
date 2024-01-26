@@ -15,8 +15,8 @@
 
 <h2> Connect with me: </h2>
 
-[![Instagram](https://cdn.icon-icons.com/icons2/2389/PNG/512/instagram_logo_icon_145167.png)](https://www.instagram.com/gaabssantos._/)
-[![Linkedin](https://w7.pngwing.com/pngs/684/46/png-transparent-linkedin-computer-icons-lord-miscellaneous-angle-text-thumbnail.png)](https://www.linkedin.com/in/gaabssantos/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaabssantos._/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaabssantos/)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-santos18&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-santos18)](https://github.com/anuraghazra/github-readme-stats)
