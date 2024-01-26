@@ -7,16 +7,15 @@
 <hr>
 
 <ul>
-
-  <li> I am Gabriel and i have 19 years old; </li>
+  <li> I'm Gabriel and i have 19 years old; </li>
+  <li> I'm a front end developer; </li>
   <li> Live in Brazil; </li>
   <li> I'm passionate about programming. </li>
-  
 </ul>
 
 <h2> Connect with me: </h2>
 
-[![Instagram](https://w7.pngwing.com/pngs/389/430/png-transparent-instagram-social-media-instagram-black-social-social-media-logo-icon.png)](https://www.instagram.com/gaabssantos._/)
+[![Instagram](https://cdn.icon-icons.com/icons2/2389/PNG/512/instagram_logo_icon_145167.png)](https://www.instagram.com/gaabssantos._/)
 [![Linkedin](https://w7.pngwing.com/pngs/684/46/png-transparent-linkedin-computer-icons-lord-miscellaneous-angle-text-thumbnail.png)](https://www.linkedin.com/in/gaabssantos/)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-santos18&theme=blue-green)
