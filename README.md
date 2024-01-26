@@ -35,4 +35,4 @@
 
 </div> <br>
 
-Apaixonado por programação e novas tecnologias! 😍
+Apaixonado por programação e novas tecnologias! :heart_eyes:
