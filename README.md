@@ -5,7 +5,7 @@
 </h1>
 
 <ul>
-  <li> :smiley: I'm Gabriel and i have 19 years old; </li>
+  <li> :smiley: I'm Gabriel and i have 20 years old; </li>
   <li> :computer: I'm a full stack developer; </li>
   <li> :city_sunrise: Live in Brazil; </li>
   <li> :heart_eyes: I'm passionate about programming. </li>
