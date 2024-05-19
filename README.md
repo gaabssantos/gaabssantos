@@ -27,7 +27,7 @@
 ## Stacks
 
 <div style="display: inline_block"><br/>
-  <a href="#"> <img align="center" alt="stacks" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bootstrap,jquery,mysql,postgresql,mongodb,postman,git,github,vscode,figma,&perline=14"> </a>
+  <a href="#"> <img align="center" alt="stacks" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,bootstrap,jquery,mysql,postgresql,mongodb,postman,git,github,jest,vscode,figma,&perline=14"> </a>
 </div> <br>
 
 <hr>
