@@ -11,7 +11,7 @@
   <li> :heart_eyes: Sou apaixonado por programação. </li>
 </ul>
 
-<h2> Connect with me: </h2>
+<h2> Contatos: </h2>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0BDA51&color:FFF)](mailto:gabriel.oliveira2040@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0BDA51&color:FFF)](https://www.linkedin.com/in/gaabssantos/)
