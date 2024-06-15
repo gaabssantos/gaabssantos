@@ -6,7 +6,7 @@
 
 <ul>
   <li> :smiley: Eu sou o Gabriel e tenho 20 anos; </li>
-  <li> :computer: Eu sou um desenvolvedor Full Stack; </li>
+  <li> :computer: Eu sou um desenvolvedor Front-end; </li>
   <li> :city_sunrise: Moro no Brasil; </li>
   <li> :heart_eyes: Sou apaixonado por programação. </li>
 </ul>
